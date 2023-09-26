@@ -15,7 +15,7 @@ class Menu():
         print("1)Agregar una canción");
         print("2)Mostrar canciones");
         print("3)Buscar canciones)");
-        print("4)Elimincar canciones");
+        print("4)Eliminar canciones");
         print("5)Descargar canciones");
         print("6)Salir");
         while(True):
